@@ -1,0 +1,5 @@
+{
+  "name": "Rocket.Chat Tabbed Desktop",
+  "description": "A multi-conversation tab system for Rocket.Chat, enabling seamless context switching and persistent workflows.",
+  "requestFramePermissions": []
+}
